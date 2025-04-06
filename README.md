@@ -19,22 +19,12 @@ sales-dashboard-streamlit/ │ ├── dashboard.py # Main Streamlit app ├�
 
 ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Sales+Dashboard+Screenshot)
 
-## 🧪 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/thismayank1/sales-dashboard-streamlit.git
-cd sales-dashboard-streamlit
-
-2. Install dependencies:
-```bash
-pip install streamlit pandas matplotlib
-
-3. Run the app:
-```bash
-streamlit run dashboard.py
-
 ## 🌐Live Demo
+
+
+## 📷 Screenshots
+
+![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Sales+Dashboard+Screenshot)
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning & Manipulation with pandas
