@@ -29,11 +29,12 @@ sales-dashboard-streamlit/
 - Line graph showing revenue trends
 
 ## 🌐Live Demo
-
+- 🔗 https://sales-dashboard-app-mayank.streamlit.app/
 
 ## 📷 Screenshots
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Sales+Dashboard+Screenshot)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/1d0683c6-0c42-4fbe-b5b0-82e638f27de0)
+
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning & Manipulation with pandas
