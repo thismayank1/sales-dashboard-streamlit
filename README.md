@@ -13,9 +13,9 @@ An interactive Sales Dashboard built with **Python** and **Streamlit** that visu
 ## 📁 Project Structure
 
 sales-dashboard-streamlit/ 
-├── dashboard.py # Main Streamlit app
-   ├── sales_data.csv # Sales data used for analysis
-      └── README.md # Project documentation
+- dashboard.py # Main Streamlit app
+- sales_data.csv # Sales data used for analysis
+- README.md # Project documentation
 
 ## 🛠 Technologies Used
 - Python 🐍
@@ -27,10 +27,6 @@ sales-dashboard-streamlit/
 - Bar chart of monthly revenue
 - Pie chart of sales by region
 - Line graph showing revenue trends
-
-## 📷 Screenshots
-
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Sales+Dashboard+Screenshot)
 
 ## 🌐Live Demo
 
