@@ -12,8 +12,21 @@ An interactive Sales Dashboard built with **Python** and **Streamlit** that visu
 
 ## 📁 Project Structure
 
-sales-dashboard-streamlit/ │ ├── dashboard.py # Main Streamlit app ├── sales_data.csv # Sales data used for analysis └── README.md # Project documentation
+sales-dashboard-streamlit/ 
+├── dashboard.py # Main Streamlit app
+   ├── sales_data.csv # Sales data used for analysis
+      └── README.md # Project documentation
 
+## 🛠 Technologies Used
+- Python 🐍
+- Streamlit
+- Pandas
+- Matplotlib / Seaborn
+
+## 📊 Example Visualizations
+- Bar chart of monthly revenue
+- Pie chart of sales by region
+- Line graph showing revenue trends
 
 ## 📷 Screenshots
 
@@ -32,6 +45,8 @@ sales-dashboard-streamlit/ │ ├── dashboard.py # Main Streamlit app ├�
 - Web App Development using streamlit
 - Git & GitHub for Version Control
 
-## 📌 Author
-Mayank Kumar
-🌐 Portfolio | 🐙 GitHub
+## 🙌 Acknowledgements
+Thanks to the open-source community and Streamlit for making data apps easy to build.
+
+## 📜 License
+MIT License - see the LICENSE file for details.
