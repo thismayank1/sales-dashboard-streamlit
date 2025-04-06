@@ -45,21 +45,23 @@ sales-dashboard-streamlit/
 - Web App Development using streamlit
 - Git & GitHub for Version Control
 
-## 🙌 Acknowledgements
-Thanks to the open-source community and Streamlit for making data apps easy to build.
-
-## 📜 License
-MIT License - see the LICENSE file for details.
-
 ## 📦 Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/thismayank1/sales-dashboard-streamlit.git
+```
 
-# Navigate into the folder
-cd sales-dashboard-streamlit
+## ▶️ Usage
+```bash
+streamlit run dashboard.py
+```
+- Then open your browser to http://localhost:8501 to view the app.
 
-# Install dependencies
-pip install -r requirements.txt
+## 📜 License
+MIT License - see the LICENSE file for details.
+
+## 🙌 Acknowledgements
+Thanks to the open-source community and Streamlit for making data apps easy to build.
+
 
