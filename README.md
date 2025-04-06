@@ -50,3 +50,16 @@ Thanks to the open-source community and Streamlit for making data apps easy to b
 
 ## 📜 License
 MIT License - see the LICENSE file for details.
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/thismayank1/sales-dashboard-streamlit.git
+
+# Navigate into the folder
+cd sales-dashboard-streamlit
+
+# Install dependencies
+pip install -r requirements.txt
+
